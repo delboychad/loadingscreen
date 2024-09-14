@@ -64,3 +64,8 @@ body, html {
     text-align: center;
     font-size: 14px;
 }
+
+.logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
